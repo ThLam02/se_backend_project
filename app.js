@@ -11,6 +11,7 @@ const userRoutes = require("./routes/user");
 // app
 const app = express();
 
+
 // database
 mongoose.connect(process.env.DATABASE, ()=> {console.log("DB Connected")});
 
