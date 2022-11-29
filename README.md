@@ -6,5 +6,5 @@
 
 
 ### Information: 
-ID Student: 20127402
-Name Student: Bui Thanh Lam
+- ID Student: 20127402
+- Name Student: Bui Thanh Lam
